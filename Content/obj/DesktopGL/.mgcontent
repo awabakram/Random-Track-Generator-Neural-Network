@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/awaba/OneDrive - Altus Education Partnership/Documents/Computer Science/NEA/Neural Net Code/Content/Arial.spritefont</File>
+    <File>C:/Users/awaba/OneDrive - Altus Education Partnership/Documents/Computer Science/NEA/Neural Net Code/Content/Car.png</File>
+    <File>C:/Users/awaba/OneDrive - Altus Education Partnership/Documents/Computer Science/NEA/Neural Net Code/Content/Car3.png</File>
+    <File>C:/Users/awaba/OneDrive - Altus Education Partnership/Documents/Computer Science/NEA/Neural Net Code/Content/rectangle2.png</File>
+    <File>C:/Users/awaba/OneDrive - Altus Education Partnership/Documents/Computer Science/NEA/Neural Net Code/Content/Car4.png</File>
+    <File>C:/Users/awaba/OneDrive - Altus Education Partnership/Documents/Computer Science/NEA/Neural Net Code/Content/rectangle3.png</File>
+    <File>C:/Users/awaba/OneDrive - Altus Education Partnership/Documents/Computer Science/NEA/Neural Net Code/Content/SmallRectangle.png</File>
+  </SourceFiles>
+</SourceFileCollection>

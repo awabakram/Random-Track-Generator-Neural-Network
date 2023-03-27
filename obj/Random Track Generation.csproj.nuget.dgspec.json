@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\s201322.ALTUSEP\\OneDrive - Altus Education Partnership\\Documents\\Computer Science\\NEA\\Neural Net Code\\Random Track Generation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\s201322.ALTUSEP\\OneDrive - Altus Education Partnership\\Documents\\Computer Science\\NEA\\Neural Net Code\\Random Track Generation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s201322.ALTUSEP\\OneDrive - Altus Education Partnership\\Documents\\Computer Science\\NEA\\Neural Net Code\\Random Track Generation.csproj",
+        "projectName": "Random Track Generation",
+        "projectPath": "C:\\Users\\s201322.ALTUSEP\\OneDrive - Altus Education Partnership\\Documents\\Computer Science\\NEA\\Neural Net Code\\Random Track Generation.csproj",
+        "packagesPath": "C:\\Users\\s201322.ALTUSEP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s201322.ALTUSEP\\OneDrive - Altus Education Partnership\\Documents\\Computer Science\\NEA\\Neural Net Code\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\s201322.ALTUSEP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Extended": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
